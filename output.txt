@@ -1,0 +1,268 @@
+Average national growth in USD: 427567.72
+Average national growth in %: 907.32
+Average growth in ME in USD: 1152907.48
+Average growth in IA in USD: 285888.17
+Average growth in NV in USD: 478351.33
+Average growth in SC in USD: 73892.87
+Average growth in KS in USD: 30153.47
+Average growth in PA in USD: 638388.22
+Average growth in AR in USD: 729451.91
+Average growth in CT in USD: 478481.03
+Average growth in SD in USD: 109201.39
+Average growth in AZ in USD: 192575.48
+Average growth in OH in USD: 159979.72
+Average growth in MN in USD: 1261438.85
+Average growth in DE in USD: 677708.85
+Average growth in HI in USD: 215908.89
+Average growth in WI in USD: 428556.17
+Average growth in NH in USD: 841525.20
+Average growth in TN in USD: 270218.97
+Average growth in PR in USD: 2656889.50
+Average growth in MO in USD: 440987.30
+Average growth in AK in USD: 173328.50
+Average growth in GA in USD: 550853.76
+Average growth in WY in USD: 265137.34
+Average growth in WA in USD: 125022.96
+Average growth in NY in USD: 811264.49
+Average growth in IL in USD: -124687.99
+Average growth in VA in USD: 178494.69
+Average growth in VI in USD: 168368.00
+Average growth in ID in USD: 212964.29
+Average growth in AL in USD: 237740.50
+Average growth in OR in USD: 165047.64
+Average growth in OK in USD: 745572.94
+Average growth in NJ in USD: 376713.75
+Average growth in MI in USD: 468627.33
+Average growth in MA in USD: 368279.37
+Average growth in TX in USD: -220759.91
+Average growth in CO in USD: -52025.61
+Average growth in NC in USD: 1064259.79
+Average growth in LA in USD: 24008.53
+Average growth in IN in USD: 605672.84
+Average growth in FL in USD: 636781.97
+Average growth in CA in USD: 676623.29
+Average growth in KY in USD: 151394.35
+Average growth in MS in USD: 103032.23
+Average growth in VT in USD: 59622.63
+Average growth in ND in USD: 413750.69
+Average growth in NE in USD: 188773.28
+Average growth in UT in USD: 514006.65
+Average growth in MD in USD: -130050.04
+Average growth in NM in USD: 172700.32
+Average growth in RI in USD: 1039389.24
+Average growth in DC in USD: 20850.30
+Average growth in WV in USD: 361869.46
+Average growth in MT in USD: 1645277.14
+Average growth in ME in %: 31.08
+Average growth in IA in %: 14.90
+Average growth in NV in %: 60.18
+Average growth in SC in %: 11.35
+Average growth in KS in %: 22.30
+Average growth in PA in %: 236.47
+Average growth in AR in %: -51.18
+Average growth in CT in %: 16.71
+Average growth in SD in %: 85.63
+Average growth in AZ in %: 33.76
+Average growth in OH in %: 38.87
+Average growth in MN in %: 17.36
+Average growth in DE in %: 28.54
+Average growth in HI in %: 12.53
+Average growth in WI in %: 321.20
+Average growth in NH in %: 10.78
+Average growth in TN in %: 15.40
+Average growth in PR in %: 1.73
+Average growth in MO in %: 21.45
+Average growth in AK in %: 81.51
+Average growth in GA in %: 14.27
+Average growth in WY in %: 97.70
+Average growth in WA in %: 15.55
+Average growth in NY in %: 296.42
+Average growth in IL in %: 10.28
+Average growth in VA in %: 83.80
+Average growth in VI in %: 141.50
+Average growth in ID in %: 22.93
+Average growth in AL in %: 19.82
+Average growth in OR in %: 36.78
+Average growth in OK in %: 17.62
+Average growth in NJ in %: 51.18
+Average growth in MI in %: 50.46
+Average growth in MA in %: 901.31
+Average growth in TX in %: 41.95
+Average growth in CO in %: 118.73
+Average growth in NC in %: 20.16
+Average growth in LA in %: 241.65
+Average growth in IN in %: 25756.45
+Average growth in FL in %: 146.00
+Average growth in CA in %: 244.53
+Average growth in KY in %: 26.35
+Average growth in MS in %: 19.75
+Average growth in VT in %: 42.84
+Average growth in ND in %: 30.42
+Average growth in NE in %: 78.76
+Average growth in UT in %: 38.57
+Average growth in MD in %: 50.69
+Average growth in NM in %: 15.77
+Average growth in RI in %: 5.13
+Average growth in DC in %: 17382.69
+Average growth in WV in %: 24.90
+Average growth in MT in %: 32.60
+Median national growth in USD: 8385.00
+Median growth in ME in USD: 2214.00
+Median growth in IA in USD: 4501.50
+Median growth in NV in USD: 12509.50
+Median growth in SC in USD: 8055.00
+Median growth in KS in USD: 15213.00
+Median growth in PA in USD: 4541.50
+Median growth in AR in USD: 5497.50
+Median growth in CT in USD: 6147.00
+Median growth in SD in USD: 17244.00
+Median growth in AZ in USD: 11905.00
+Median growth in OH in USD: 4606.50
+Median growth in MN in USD: 8883.00
+Median growth in DE in USD: 10122.00
+Median growth in HI in USD: 10684.00
+Median growth in WI in USD: 6547.50
+Median growth in NH in USD: 11475.00
+Median growth in TN in USD: 8289.00
+Median growth in PR in USD: 2656889.50
+Median growth in MO in USD: 3480.00
+Median growth in AK in USD: 19555.00
+Median growth in GA in USD: 6915.50
+Median growth in WY in USD: 25540.00
+Median growth in WA in USD: 15481.50
+Median growth in NY in USD: 7900.00
+Median growth in IL in USD: 10564.00
+Median growth in VA in USD: 11384.00
+Median growth in VI in USD: 168368.00
+Median growth in ID in USD: 2441.50
+Median growth in AL in USD: 147.00
+Median growth in OR in USD: 9077.00
+Median growth in OK in USD: 9111.50
+Median growth in NJ in USD: 8864.00
+Median growth in MI in USD: 5174.00
+Median growth in MA in USD: 8989.00
+Median growth in TX in USD: 8354.00
+Median growth in CO in USD: 7030.00
+Median growth in NC in USD: 8823.00
+Median growth in LA in USD: 6817.00
+Median growth in IN in USD: 9892.00
+Median growth in FL in USD: 3307.00
+Median growth in CA in USD: 10143.00
+Median growth in KY in USD: 2041.50
+Median growth in MS in USD: -68.00
+Median growth in VT in USD: 1989.00
+Median growth in ND in USD: 28420.00
+Median growth in NE in USD: 21127.00
+Median growth in UT in USD: 32002.00
+Median growth in MD in USD: 14319.00
+Median growth in NM in USD: 17640.00
+Median growth in RI in USD: -1372.00
+Median growth in DC in USD: 4966.50
+Median growth in WV in USD: 23119.00
+Median growth in MT in USD: 11964.00
+Median growth in ME in %: 0.66
+Median growth in IA in %: 1.34
+Median growth in NV in %: 4.71
+Median growth in SC in %: 1.90
+Median growth in KS in %: 3.45
+Median growth in PA in %: 1.39
+Median growth in AR in %: 1.05
+Median growth in CT in %: 1.94
+Median growth in SD in %: 8.23
+Median growth in AZ in %: 3.07
+Median growth in OH in %: 1.70
+Median growth in MN in %: 2.17
+Median growth in DE in %: 3.88
+Median growth in HI in %: 3.81
+Median growth in WI in %: 2.52
+Median growth in NH in %: 2.60
+Median growth in TN in %: 1.80
+Median growth in PR in %: 1.73
+Median growth in MO in %: 1.33
+Median growth in AK in %: 5.78
+Median growth in GA in %: 2.41
+Median growth in WY in %: 7.29
+Median growth in WA in %: 3.17
+Median growth in NY in %: 2.08
+Median growth in IL in %: 2.02
+Median growth in VA in %: 3.48
+Median growth in VI in %: 141.50
+Median growth in ID in %: 0.96
+Median growth in AL in %: 0.15
+Median growth in OR in %: 2.80
+Median growth in OK in %: 2.49
+Median growth in NJ in %: 1.73
+Median growth in MI in %: 1.55
+Median growth in MA in %: 1.58
+Median growth in TX in %: 2.88
+Median growth in CO in %: 1.80
+Median growth in NC in %: 2.71
+Median growth in LA in %: 2.33
+Median growth in IN in %: 2.48
+Median growth in FL in %: 1.38
+Median growth in CA in %: 2.79
+Median growth in KY in %: 0.78
+Median growth in MS in %: -0.03
+Median growth in VT in %: 0.40
+Median growth in ND in %: 6.77
+Median growth in NE in %: 6.69
+Median growth in UT in %: 6.57
+Median growth in MD in %: 2.36
+Median growth in NM in %: 4.01
+Median growth in RI in %: -0.49
+Median growth in DC in %: 0.87
+Median growth in WV in %: 3.62
+Median growth in MT in %: 4.54
+Records from MA: 578
+Records from IN: 295
+Records from ID: 80
+Records from NM: 87
+Records from OR: 201
+Records from IA: 194
+Records from IL: 514
+Records from TN: 277
+Records from PR: 2
+Records from MO: 321
+Records from ME: 106
+Records from AZ: 182
+Records from AK: 68
+Records from VT: 73
+Records from WA: 348
+Records from SD: 76
+Records from KY: 150
+Records from NJ: 397
+Records from TX: 771
+Records from MI: 489
+Records from MD: 273
+Records from NV: 78
+Records from NE: 116
+Records from MN: 446
+Records from KS: 192
+Records from OK: 132
+Records from CT: 248
+Records from OH: 652
+Records from AR: 118
+Records from FL: 630
+Records from WI: 344
+Records from CO: 324
+Records from MT: 114
+Records from DC: 226
+Records from ND: 70
+Records from PA: 804
+Records from GA: 340
+Records from NH: 83
+Records from HI: 71
+Records from WY: 44
+Records from VI: 1
+Records from LA: 180
+Records from CA: 1201
+Records from UT: 79
+Records from AL: 196
+Records from WV: 78
+Records from VA: 447
+Records from NC: 363
+Records from NY: 1391
+Records from SC: 171
+Records from RI: 95
+Records from MS: 116
+Records from DE: 60
